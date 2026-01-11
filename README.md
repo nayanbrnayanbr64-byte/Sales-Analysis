@@ -37,4 +37,4 @@ This project focuses on analyzing sales data using **Microsoft Power BI** to gai
 - Better understanding of customer preferences
 
 ## 👤 Author
-**Nayan**
+**Nayan Kumar B R**

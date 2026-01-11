@@ -3,6 +3,11 @@
 ## 📊 Project Overview
 This project focuses on analyzing sales data using **Microsoft Power BI** to gain meaningful business insights. The dashboard helps understand sales trends, regional performance, customer segments, and shipping modes.
 
+## 📊 Dashboard Preview
+
+![Sales Analysis Dashboard](images/dashboard.png)
+
+
 ## 🎯 Objectives
 - Analyze overall sales performance
 - Identify monthly sales trends
